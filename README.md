@@ -1,6 +1,6 @@
-#GTBank Customer Churn Analysis | Microsoft Excel
+# GTBank Customer Churn Analysis | Microsoft Excel
 
-##Project Overview
+## Project Overview
 This project focuses on analyzing customer churn at GTBank using Microsoft Excel. The objective was to understand customer behaviour, identify factors contributing to customer attrition, and generate insights that could help the bank improve customer retention.
 The analysis involved data preprocessing, data cleaning, exploratory data analysis, Pivot Tables, and data visualization. An interactive dashboard was also developed to present key performance indicators and customer churn patterns.
 
