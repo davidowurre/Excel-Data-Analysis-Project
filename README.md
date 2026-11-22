@@ -1,2 +1,4 @@
-# Excel-Data-Analysis-Project
-Conducted data analysis using Microsoft Excel, involving data preprocessing, cleaning, and visualization. Created multiple Pivot Tables to identify trends, uncover patterns, and generate actionable insights to support data-driven decision-making.
+# GTBank-Data-Analysis (Interactive Dashboard Creation Using MS Excel)
+## Project Overview
+This repository contains my data analysis projects completed using Microsoft Excel. The projects focus on transforming raw data into meaningful insights through data preprocessing, data cleaning, exploratory data analysis, Pivot Tables, and data visualization.
+
